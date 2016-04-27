@@ -1,0 +1,61 @@
+{
+  "project_info": {
+    "project_number": "95307286487",
+    "project_id": "tribal-quest-129417"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95307286487:android:40bd9973174263d2",
+        "android_client_info": {
+          "package_name": "com.example.agneev.gcm_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS76K_ygP_Se8kvBanF0aXbLXg9qyDGF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95307286487:android:9b300b44347b5c64",
+        "android_client_info": {
+          "package_name": "com.example.agneev.gcm_tes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS76K_ygP_Se8kvBanF0aXbLXg9qyDGF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
